@@ -1,0 +1,4 @@
+Hello world
+This is a sample file
+C++ programming is fun
+Hello ChatGPT
